@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-mergeDebugResources-44:\\layout\\activity_post_login.xml",
+        "source": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-main-47:\\layout\\activity_post_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-mergeDebugResources-44:\\layout\\activity_ver_productos.xml",
+        "source": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-main-47:\\layout\\activity_ver_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-mergeDebugResources-44:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-main-47:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-mergeDebugResources-44:\\layout\\fragment_agregar.xml",
+        "source": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-main-47:\\layout\\fragment_agregar.xml"
+    },
+    {
+        "merged": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-mergeDebugResources-44:\\layout\\activity_editar_producto.xml",
+        "source": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-main-47:\\layout\\activity_editar_producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-mergeDebugResources-44:\\layout\\activity_cambiar_contra2.xml",
+        "source": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-main-47:\\layout\\activity_cambiar_contra2.xml"
+    },
+    {
+        "merged": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-mergeDebugResources-44:\\layout\\item_productos.xml",
+        "source": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-main-47:\\layout\\item_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-mergeDebugResources-44:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\casti\\.gradle\\daemon\\8.0\\com.example.prueba_2.app-main-47:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.example.prueba_2.app-mergeDebugResources-44:/layout/fragment_home.xml",
+        "source": "com.example.prueba_2.app-main-47:/layout/fragment_home.xml"
+    }
+]

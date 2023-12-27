@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SettingsFragment"
+    android:layout_margin="30dp">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="314dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="10dp"
+        android:checked="false"
+        android:text="Activar/Desactivar"
+        android:textSize="25dp" />
+
+    <Switch
+        android:id="@+id/switch2"
+        android:layout_width="314dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="80dp"
+        android:checked="false"
+        android:text="Activar/Desactivar"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="149dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="590dp"
+        android:layout_marginLeft="105dp"
+        android:text="Cerrar Sesión" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnContra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="90dp"
+        android:layout_marginTop="530dp"
+        android:layout_marginEnd="20dp"
+        android:text="Cambiar contraseña" />
+
+</FrameLayout>

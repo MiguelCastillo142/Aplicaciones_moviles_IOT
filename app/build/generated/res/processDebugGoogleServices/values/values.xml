@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">107075615678</string>
+    <string name="google_api_key" translatable="false">AIzaSyCPp1viCsgqYSk_sDwjS-uV-zkqLxlS0pM</string>
+    <string name="google_app_id" translatable="false">1:107075615678:android:d3f4b2c73be14fb56697ef</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCPp1viCsgqYSk_sDwjS-uV-zkqLxlS0pM</string>
+    <string name="google_storage_bucket" translatable="false">prueba-aplicaciones-2.appspot.com</string>
+    <string name="project_id" translatable="false">prueba-aplicaciones-2</string>
+</resources>
